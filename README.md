@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @marielacour
 - 👀 I’m interested in neuroscience, physiology, and genetic and protein pathology interactions.
 - 🌱 I’m currently learning.
-- 💞️ I’m looking to collaborate on genomics and toxicology projects.
+- 💞️ I’m looking to collaborate on genomics, proteomics, and toxicology projects.
 - 📫 Respositories...21
 - 😄 Pronouns: ...
 - ⚡ Fun fact: INTJ, professional learner, inclusive, leader (work-in-progress), HIIT instructor, philosophical, and lover.
