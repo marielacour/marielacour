@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on genomics, proteomics, and toxicology projects.
 - 📫 Respositories...21
 - 😄 Pronouns: ...
-- ⚡ Fun fact: INTJ, professional learner, inclusive, leader (work-in-progress), HIIT instructor, philosophical, and lover.
+- ⚡ Fun fact: INTJ, professional learner, inclusive, leader (work-in-progress), HIIT and Fitness Instructor, philosophical, living gratitude, and lover.
 
 <!---
 marielacour/marielacour is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
